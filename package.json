@@ -12,7 +12,7 @@
   "dependencies": {
     "app-root-path": "^2.2.1",
     "async": "^3.1.0",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "ejs": "^2.6.2",
     "express": "^4.17.1",
     "express-mysql-session": "^2.1.0",
